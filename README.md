@@ -13,7 +13,7 @@ Trying to contribute to a better world by creating amazing things through techno
 
 
 <br />
-<h1>Skills🎯</h1> 
+<h2>Skills🎯</h2> 
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35" height="35" alt="Javascript" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="35" height="35" alt="Typescript" /></a>&nbsp;&nbsp;&nbsp;
@@ -44,16 +44,14 @@ Trying to contribute to a better world by creating amazing things through techno
 </div>
 </p>
 
-<br />
-<h1>Social</h1> 
-
-<div style="display: inline-flex; gap: 0 20px"><a href="https://www.github.com/jcjeancarloo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp; <a href="http://www.instagram.com/jcjeancarloo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
+<h2>Social</h2> 
+<div><a href="https://www.github.com/jcjeancarloo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp; <a href="http://www.instagram.com/jcjeancarloo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://br.linkedin.com/in/jcjeancarloo" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" /></a></div>
 
+
 <br />
-<br />
-<h1>Github Stats</h1> 
-<div style="display: inline-flex; gap: 0 20px">
+<h2>Github Stats</h2> 
+<div>
 <a href="http://www.github.com/jcjeancarloo"><img src="https://github-readme-stats.vercel.app/api?username=jcjeancarloo&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&theme=dark&hide_border=true&show_icons=true" alt="jcjeancarloo's GitHub stats" /></a>
 
 <a href="http://www.github.com/jcjeancarloo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcjeancarloo&theme=dark&hide_border=true" /></a>
